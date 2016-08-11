@@ -1,0 +1,29 @@
+p{
+	text-align: left;
+	color: #989898;
+}
+h3{
+	color: #ffc200;
+	margin-bottom: 5%;
+	margin-top: 3%;
+}
+.raya{
+	border-bottom: dashed 3px #989898;
+}
+.ver{
+	color: #ff6a49;
+	border:solid #ff6a49 1px;
+	border-radius: 10px;
+	padding: 2% 5%;	
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 2%;
+	float: right;
+	background-color: white;
+}
+a {
+	text-decoration: none;
+}
+.perfil{
+	width: 200px;
+}
